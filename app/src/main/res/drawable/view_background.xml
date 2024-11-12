@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 枠線の色 -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/white" />
+
+    <!-- 内側の色（透明に設定） -->
+    <solid android:color="@color/back_clear" />
+
+    <!-- 角の丸み -->
+    <corners android:radius="30dp" />
+
+</shape>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/ripple_color"> <!-- ripple の色指定 -->
+
+    <!-- リップルエフェクトの中のコンテンツ -->
+    <item>
+        <shape>
+            <!-- 枠線の色 -->
+            <stroke
+                android:width="2dp"
+                android:color="@color/white" />
+
+            <!-- 内側の色 -->
+            <solid android:color="@color/back_clear" />
+
+            <corners android:radius="30dp" />
+
+        </shape>
+    </item>
+
+</ripple><!-- ボタンの透明背景 -->

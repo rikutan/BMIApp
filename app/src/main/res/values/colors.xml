@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 白の半分 -->
+    <color name="white_half">#80FFFFFF</color>
+
+    <!--　背景の色　-->
+    <color name="background">#8DA4CE</color>
+
+    <!-- 透明 -->
+    <color name="back_clear">#00000000</color>
+
+
+    <!-- ripple 時の色 -->
+    <color name="ripple_color">#808080</color>
+
+    <!--　エラー時 -->
+    <color name="error">#3E1103</color>
+
+
+</resources>

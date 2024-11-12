@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI App</string>
+
+    <!-- エラー時 -->
+    <string name="pass_error">入力されていない部分があります</string>
+
+
+</resources>
